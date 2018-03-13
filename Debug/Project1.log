@@ -1,0 +1,5 @@
+﻿  OffModel.cpp
+c:\users\etuna\source\repos\project1\project1\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\project1\project1\offmodel.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\etuna\source\repos\project1\project1\offmodel.cpp(159): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\etuna\source\repos\Project1\Debug\Project1.exe
